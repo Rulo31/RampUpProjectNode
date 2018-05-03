@@ -1,0 +1,16 @@
+{
+    "host": "10.228.33.157",
+    "username": "raul",
+    "password": "raul.1234",
+    "remotePath": "/home/raul/RampUpProjectNode",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}

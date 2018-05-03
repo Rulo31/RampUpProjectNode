@@ -1,0 +1,98 @@
+{
+  "ftp://10.228.33.157:21@raul": {
+    "home": {
+      "raul": {
+        "RampUpProjectNode": {
+          "RampUpProjectNode": {},
+          "RampUpProjectNode.0": {
+            "type": "-",
+            "size": 67108864,
+            "lmtime": 0,
+            "modified": false
+          },
+          "RampUpProjectNode.ns": {
+            "type": "-",
+            "size": 16777216,
+            "lmtime": 0,
+            "modified": false
+          },
+          "app": {},
+          "data": {},
+          "local": {},
+          "local.0": {
+            "type": "-",
+            "size": 67108864,
+            "lmtime": 0,
+            "modified": false
+          },
+          "local.ns": {
+            "type": "-",
+            "size": 16777216,
+            "lmtime": 0,
+            "modified": false
+          },
+          "mongod.lock": {
+            "type": "-",
+            "size": 0,
+            "lmtime": 0,
+            "modified": true
+          },
+          "node_modules": {},
+          "package-lock.json": {
+            "type": "-",
+            "size": 11100,
+            "lmtime": 0,
+            "modified": false
+          },
+          "package.json": {
+            "type": "-",
+            "size": 166,
+            "lmtime": 1524852340000,
+            "modified": false
+          },
+          "server.js": {
+            "type": "-",
+            "size": 3476,
+            "lmtime": 1525274356515,
+            "modified": false
+          },
+          "ts-built": {
+            "models": {
+              "AuditLog.js": {
+                "type": "-",
+                "size": 412,
+                "lmtime": 1524872462771,
+                "modified": false
+              },
+              "IAuditLog.js": {
+                "type": "-",
+                "size": 82,
+                "lmtime": 1524872462748,
+                "modified": false
+              },
+              "IBear.js": {
+                "type": "-",
+                "size": 82,
+                "lmtime": 1524872462774,
+                "modified": false
+              },
+              "bear.js": {
+                "type": "-",
+                "size": 193,
+                "lmtime": 1524872462777,
+                "modified": false
+              }
+            }
+          },
+          "tsconfig.json": {
+            "type": "-",
+            "size": 194,
+            "lmtime": 0,
+            "modified": false
+          }
+        }
+      }
+    }
+  },
+  "$version": 1
+}
